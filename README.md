@@ -1,3 +1,4 @@
-# Modify this portfolio
+## This is my a project about my portfolio
 
-Make it your own! 
+[This website will be my portfolio](https://portfolio-rui.netlify.app/)
+[trello project tracker](https://trello.com/b/9rpIHP6u/react-portfolio)
