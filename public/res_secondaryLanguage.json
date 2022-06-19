@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Rui Guo. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "大家好",
+      "description": "👋 我叫郭家锐， 我是一名美国陆军退伍军人。我想通过这个Code Fellows的在线软件培训课程成为一名软件工程师。我有信心我可以做到。谢谢大家。 💜",
       "section_name": {
         "about": "O mnie",
         "projects": "Projekty",

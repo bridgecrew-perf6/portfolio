@@ -11,14 +11,13 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Busmall Vote",
+        "startDate": "May 2022",
+        "description": "The is a project that let customers to vote for their most favorite for-sale items. upon completion of votes, a bar chart will be provided to show favorite items and their votes numbers.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/animal-shelter/p1.jpg"
         ],
-        "url": "",
+        "url": "https://github.com/mvrk/busmall",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -35,14 +34,13 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Salmon Cookies store",
+        "startDate": "May 2022",
+        "description": " A website that displays cookie products; A statistical table that can summarize live retail data from all stores.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/photography/p1.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/mvrk/cookie-stand",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -54,15 +52,15 @@
           }
         ]
       },
+      
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Project Steel",
+        "startDate": "June 2022",
+        "description": " An interactive chart of Elements which displays workout data by user input Built with JavaScript, semantic HTML, pure CSS.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/adventure/p1.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/Sharp-Research/project-steel",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -76,8 +74,29 @@
             "class": "devicon-csharp-plain",
             "name": "C#"
           }
+          
+        ]
+      },
+      {
+        "title": "301 Final Project",
+        "startDate": "July 2022",
+        "description": " This will be my 301 final project palce holder.",
+        "images": [
+          "images/portfolio/301/p1.jpg"
+        ],
+        "url": "https://github.com/mvrk/cookie-stand",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
         ]
       }
+      
     ],
     "experience": [
       {
