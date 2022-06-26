@@ -11,9 +11,9 @@
         "class": "fab fa-github"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/rui-guo",
-        "class": "fab fa-instagram"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/rui-guo/",
+        "class": "fab fa-linkedin"
       }
     ],
     "image": "myProfile.jpg"
